@@ -9,7 +9,7 @@ Die Richtlinien der Aridia.net Community sind als „Bedienungsanleitung“ für
 Vergabe einer Benutzergruppe wird durch die Administratoren oder Gruppenleitung gehandhabt. Bei fehlenden Benutzergruppen kann man diese einfach Kontaktieren. 
 Das Betteln um Benutzerrechte wie z.B. Administrator ist hier nicht erwünscht. Sollte sich nicht daran gehalten werden, muss mit Sanktionen seitens der Administratoren gerechnet werden. Der Missbrauch von Serverrängen und deren Rechten wird mit einem Entzug dieser Berechtigung geahndet.
 
-##Namensgebung der User 
+## Namensgebung der User 
 Wir bitten jeden User, sich mit dem gleichen Nickname im Discord wie ingame anzumelden. Dies dient der Übersichtlichkeit. Sogenannte Fakenamen sind verboten. Nicknamen dürfen generell nicht pornografische, anstößige, beleidigende rassistische oder ähnliche Inhalte haben. Dies gilt genauso für die Avatarbilder der User. User mit unzulässigen Nicknamen und Avatarbildern werden permanent vom Server gebannt! Bitte benutzt in eurem Nickname keine ungewöhnlichen oder unleserlichen Unicodes.
 Unsere Administratoren behalten sich da Recht vor, unangebrachte Nicknames zu ändern.
 

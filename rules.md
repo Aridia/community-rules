@@ -1,5 +1,5 @@
 # Discord Richtlinien
-*Ver. 3.0 - 30.05.2021 
+*Ver. 3.0 - 30.05.2021*
 
 Die Richtlinien der Aridia.net Community sind als „Bedienungsanleitung“ für das Leben in der Community entstanden. Hier wird detailliert beschrieben, wie sich die Mitglieder und Administratoren der Community zu verhalten haben. Die folgenden Regeln gelten für alle Nutzer unseres Discords. Mit der Nutzung dieses Servers akzeptiert Ihr diese Regeln ausdrücklich. 
 
